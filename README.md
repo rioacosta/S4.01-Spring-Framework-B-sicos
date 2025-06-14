@@ -36,13 +36,15 @@ El servicio de Gradle debe ejecutarse en el puerto `9001`.
 
 ### Maven
 
-cd S04T01N01/S04T01N01
-mvn spring-boot:run
+paso 1: cd S04T01N01/S04T01N01
+
+paso 2: mvn spring-boot:run
 
 
 ### Gradle
-cd S04T01N02/S04T01N02
-.\gradlew bootRun
+paso 1: cd S04T01N02/S04T01N02
+
+paso 2: .\gradlew bootRun
 
 
 ## Ver en navegador o Postman
@@ -52,6 +54,7 @@ http://localhost:9000/HelloWorld?nombre=tuNombre
 http://localhost:9000/HelloWorld2/tuNombre
 
 📋 Notas
+
 Ambos proyectos tienen el puerto configurado en application.properties.
 
 La lógica principal se encuentra en la clase HelloWorldController.
