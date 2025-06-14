@@ -35,7 +35,7 @@ El servicio de Gradle debe ejecutarse en el puerto `9001`.
 
 ### Clonar el repositorio
 
-   git clone https://github.com/Jusep1983/S4.01-Spring-Framework-Basicos.git
+   git clone https://github.com/Jusep1983/S4.01-Spring-Framework-Basicos
 
    cd S4.01-Spring-Framework-Basicos
 
