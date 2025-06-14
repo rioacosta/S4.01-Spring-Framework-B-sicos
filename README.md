@@ -11,6 +11,7 @@ Implementar dos endpoints:
 - **GET** `/HelloWorld2/tuNombre` → devuelve: `Hola tuNombre. Estás ejecutando un proyecto Maven/Gradle"`
 
 El servicio de Maven debe ejecutarse en el puerto `9000`.
+
 El servicio de Gradle debe ejecutarse en el puerto `9001`.
 
 ## 🛠️ Tecnologías y herramientas
