@@ -33,6 +33,12 @@ El servicio de Gradle debe ejecutarse en el puerto `9001`.
 
 ## 🚀 Cómo ejecutar los proyectos en linea de comandos
 
+### Clonar el repositorio
+
+   git clone https://github.com/Jusep1983/S4.01-Spring-Framework-Basicos.git
+
+   cd S4.01-Spring-Framework-Basicos
+
 
 ### Maven
 
