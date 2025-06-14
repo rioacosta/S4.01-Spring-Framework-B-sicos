@@ -7,8 +7,8 @@ Este repositorio contiene dos versiones equivalentes de un microservicio desarro
 
 Implementar dos endpoints:
 
-- **GET** `/HelloWorld?nombre=tuNombre` → devuelve: `Hola tuNombre. Estás ejecutando un proyecto Maven"`
-- **GET** `/HelloWorld2/tuNombre` → devuelve: `Hola tuNombre. Estás ejecutando un proyecto Maven"`
+- **GET** `/HelloWorld?nombre=tuNombre` → devuelve: `Hola tuNombre. Estás ejecutando un proyecto Maven/Gradle"`
+- **GET** `/HelloWorld2/tuNombre` → devuelve: `Hola tuNombre. Estás ejecutando un proyecto Maven/Gradle"`
 
 El servicio de Maven debe ejecutarse en el puerto `9000`.
 El servicio de Gradle debe ejecutarse en el puerto `9001`.
